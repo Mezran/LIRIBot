@@ -1,2 +1,2 @@
 # LIRIBot
-![Image of Yaktocat](https://github.com/Mezran/LIRIBot/images/movie-this-DEFAULT.png)
+![Image of Yaktocat](images/movie-this-DEFAULT.png)
