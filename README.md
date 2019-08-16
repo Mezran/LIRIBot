@@ -1,2 +1,2 @@
 # LIRIBot
-![Image of Yaktocat](images/movie-this-DEFAULT.png)
+![Image of default](/images/movie-this-DEFAULT.png)
