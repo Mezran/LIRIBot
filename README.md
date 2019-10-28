@@ -1,9 +1,9 @@
 # LIRIBot
-For this assignment we were tasked with creating a console line application that could search Spotify's API and the OMDB database to query for songs by name and movies by title.
 
-** Ensure you run 'npm install' to install dependencies before attempting to run the application. 
+## Overview
+LIRIBot is a command line application designed to read a text file and search Spotify or the Open Movie Database (OMDB) for songs by name and movies by title.
 
-## Images
+## Views 
 ### movie-this command without any parameter passed
 ![Image of default](/images/movie-this-DEFAULT.png)
 
